@@ -1,0 +1,12 @@
+div.general {
+	width:40%;
+	height:40%;
+	border: solid 5px;
+	margin-left: 25%;
+	background:linear-gradient(to right,#757F9A,#4286f4);
+}
+img{
+	width:250px;
+	height:350px;
+	border-radius: 20px ;
+}
